@@ -1,0 +1,28 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "adolfo@librepixels.com",
+                "Name": "zayronxio"
+            },
+            {
+                "Email": "pan.vena@ukr.net",
+                "Name": "PanVena"
+            }
+        ],
+        "Name": "OnlyText Date Ukr",
+        "Id": "OnlyText.Date.Kde.Ukr",
+        "Description": "Віджет, що показує день тижня і поточне число з місяцем у вигляді тексту.",
+        "Category": "Utilities",
+        "Icon": "calendar",
+        "EnabledByDefault": true,
+        "License": "GPL-3.0+",
+        "ServiceTypes": [
+            "Plasma/Applet"
+        ],
+        "Version": "0.0.1",
+        "Website": "https://github.com/PanVena/OnlyText-Date-Ukr"
+    },
+    "X-Plasma-API-Minimum-Version": "6.0",
+    "X-Plasma-MainScript": "ui/main.qml"
+}
